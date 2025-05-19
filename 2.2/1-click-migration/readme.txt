@@ -1,4 +1,4 @@
-test
+t
 === 1 Click WordPress Migration Plugin - 100% FREE for a limited time===
 Contributors: 1clickmigration
 Tags:migration,clone,copy,move,transfer
